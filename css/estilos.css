@@ -3,15 +3,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1{
-    color: ghostwhite;
-}
-
-h2{
-    color: ghostwhite;
-}
-
-h3{
+h1, h2, h3{
     color: ghostwhite;
 }
 
